@@ -1,45 +1,21 @@
-# 🍿 Welcome to Movie Night Planner 🎬
+# 🍿 Movie Night Planner 🎬
 
-![Movie Night Planner](https://github.com/fogui-resources/movie_night_planner/releases/tag/v1.2)
-
-## Overview
-Welcome to the Movie Night Planner repository! This project is a FastAPI-based Movie & TV Show Recommender using the TMDb API. With this tool, you can search for movies, get personalized recommendations, and browse top-rated content effortlessly. 
+Welcome to the Movie Night Planner repository! This project is a FastAPI-based Movie & TV Show Recommender 
+using the TMDb API. With this tool, you can search for movies, get personalized recommendations, and browse
+top-rated content effortlessly. 
 
 ## Features
 🎥 **Movie Search**: Search for your favorite movies and TV shows easily.  
 🔍 **Recommendations**: Receive tailored movie and TV show recommendations based on your preferences.  
 🌟 **Top-Rated Content**: Explore the highest-rated movies and TV shows.  
 
-## Repository Information
-- **Repository Name**: movie_night_planner  
-- **Description**: 🎬 FastAPI-based Movie & TV Show Recommender using TMDb API 🎱| Search movies, get recommendations & browse top-rated content!  
-- **Topics**: api, css, fastapi, html, movie-recommendation-system, open-source, python, rest-api, web-app, web-dev  
-- **Link**: [Download ZIP](https://github.com/fogui-resources/movie_night_planner/releases/tag/v1.2)
+## Screenshots
 
-## Getting Started
-To get started with Movie Night Planner, simply download the ZIP file from the link provided above. If the link ends with a file name, make sure to extract the contents and launch the application. 
 
-## Installation
-1. Download the ZIP file from the provided link.
-2. Extract the contents to your desired location.
-3. Launch the application and start enjoying movie and TV show recommendations.
-
-## Usage
-1. Search for movies or TV shows using the search feature.
-2. Get personalized recommendations based on your viewing history.
-3. Browse top-rated content to discover new and exciting movies and TV shows.
-
-## Contributing
-We welcome contributions to enhance the Movie Night Planner experience. If you have any suggestions, ideas, or improvements, feel free to submit a pull request.
-
-## Support
-For any issues, feedback, or questions related to Movie Night Planner, please check the "Releases" section or contact us directly.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fogui-resources/movie_night_planner/releases/tag/v1.2) file for details.
-
----
-
-[![Download ZIP](https://github.com/fogui-resources/movie_night_planner/releases/tag/v1.2)](https://github.com/fogui-resources/movie_night_planner/releases/tag/v1.2)
-
-🎥🌟🍿 Happy Movie Night Planning! 🍿🌟🎥
+<img width="1914" height="835" alt="Screenshot 2025-10-16 131707" src="https://github.com/user-attachments/assets/8b714efc-9ebc-4c39-86f4-604220c4345e" />
+<img width="1919" height="1025" alt="Screenshot 2025-10-16 131719" src="https://github.com/user-attachments/assets/4de721f8-405b-40ef-bab6-de03f7a9591f" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 132245" src="https://github.com/user-attachments/assets/5f8de665-6891-4165-9269-2f409c96192e" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 132539" src="https://github.com/user-attachments/assets/aff797a2-d4ca-493a-a106-36713c65298c" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 132835" src="https://github.com/user-attachments/assets/8bdbdd3c-9dec-4362-b5e5-29e2e276aa99" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 132902" src="https://github.com/user-attachments/assets/6b141468-8e6d-4ec7-9ca0-062fb2480a4b" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 132115" src="https://github.com/user-attachments/assets/763427eb-04f3-48a1-bdd3-1825ffcb1de0" />
